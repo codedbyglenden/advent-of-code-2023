@@ -1,0 +1,1 @@
+export const mapSize = 140; // 10 = test data.
